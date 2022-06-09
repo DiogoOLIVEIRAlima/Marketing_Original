@@ -1,0 +1,92 @@
+#table-1{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+}
+
+
+
+#td-imagem1{
+    width: 100px;
+}
+#imagem1{
+    
+width: 100%;
+margin-left: 0px;
+margin-top: 0px;
+}
+.Titulos{
+
+    width: 439px;
+    height: 68px;
+    left: 60px;
+    top: 163px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00A857;
+}
+#Fulano{
+    
+width: 89px;
+height: 23px;
+left: 60px;
+top: 291px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+}
+#conta-corrente{
+    
+width: 453px;
+height: 71px;
+left: 60px;
+top: 374px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+
+}
+.icones-1{
+width: 56px;
+height: 56px;
+left: 60px;
+top: 505px;
+}
+
+p{
+    color: white;
+}
+
+#id-top{
+    width: 100%;
+ margin-left: 0px;
+margin-top: 84px;
+}
+
+#id-portabilidade{
+    width: 100%;
+margin-left: 0px;
+margin-top: 95px;
+}
+.paragrafos2{
+    color: black;
+}
+
+#imagem-footer{
+    width: 100%;
+ margin-left: 30px;
+}
+#id-completo{
+    width: 100%;
+margin-left: 0px;
+
+}
